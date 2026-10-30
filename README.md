@@ -22,7 +22,7 @@ Install or import the **entire repository folder** using your assistant's skill 
 For Codex, clone the repository into your user skills directory:
 
 ```bash
-git clone https://github.com/scamaltmancool/youdontneedforgegui.git ~/.agents/skills/youdontneedforgegui
+git clone https://github.com/scamaltmancool/youdontneedforgeguiII.zip.git ~/.agents/skills/youdontneedforgegui
 ```
 
 
